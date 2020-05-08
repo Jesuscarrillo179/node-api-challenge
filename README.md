@@ -39,14 +39,19 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
 - [ ] Mention two parts of Express that you learned about this week.
+how to set it up, and it allows us to create methods easily.
 
 - [ ] Describe Middleware?
+its code that intercepts in the middle of a call or function, having to go through it before hitting its endpoint. 
 
 - [ ] Describe a Resource?
+a collection of data that is stored on a server, that can be used by clients.
 
 - [ ] What can the API return to help clients know if a request was successful?
+we can send status codes along with a message
 
 - [ ] How can we partition our application into sub-applications?
+by creating seperate files and importing and exporting them
 
 ## Minimum Viable Product
 
